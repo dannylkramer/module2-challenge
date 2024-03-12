@@ -20,4 +20,4 @@ Included in the repository:
 Credits: 
 Daniel Kramer
 Northwestern University Coding Bootcamp
-Module 1 Challenge
+Module 2 Challenge
